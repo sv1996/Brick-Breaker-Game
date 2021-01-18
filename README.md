@@ -1,2 +1,4 @@
 # Brick-Breaker-Game
-This is my fun project done in Java 
+## This is famous brick Breaker Game developed in Core Java and Swing GUI Toolkit.
+
+
