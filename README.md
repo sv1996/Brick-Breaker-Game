@@ -27,6 +27,16 @@ public class MainGame {
 }
 ```
 
+# How to Play This Game 
+
+1. open all source code in Eclipse IDE 
+2. Run MainGame.java file as main file
+3. after that whole game window will open and you see a ball with bricks 
+4. press Enter key to start the game.
+5. When ball hits the brick it starts loosing its dimension and score added to the player account.
+6. you can slide left or right of piller to accces the ball.
+
+
 
 
 
